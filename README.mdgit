@@ -1,1 +1,2 @@
-"# Tio-Mario-Bros"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/TioProgrammer/Tio-Mario-Bros.gitgit push -u origin main
+A Super Mario Bros temake
+#Removes 8 colors restriction
